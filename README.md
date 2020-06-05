@@ -17,3 +17,12 @@ Program Penjualan ini saya build Ulang menggunakan Framework Versi terbaru saat 
 - Menggunakan Templete Terbaru Boostrap yaitu SB Admin2
 - Menggunakan Versi Laravel Terbaru Yaitu Versi 7 (7.14.1)
 
+## Cara Pemasangan
+ 
+ 1. Jalankan Composer install atau composer update
+ 2. Buat database dengan nama PenjualanHoscloud
+ 3. Import Database dari data file sql yang saya sertakan
+ 4. Jalankan Php artisan serve
+ 5. Untuk Login:
+    - Email: SuryaDiansyahh@gmail.com; Pass: Password
+    - Email: Admin@gmail.com; Pass: Password
