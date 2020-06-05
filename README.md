@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <p align ="Center"> PENJUALAN HOSCLOUD <sup>Beta</sup></p>
+
+
 ## Tentang Program Penjualan ini
 
 Program Penjualan ini saya build Ulang menggunakan Framework Versi terbaru saat ini ditambah fitur" seperti:
