@@ -30,3 +30,6 @@ Program Penjualan ini saya build Ulang menggunakan Framework Versi terbaru saat 
     - Email: Admin@gmail.com; Pass: Password
     
  ## Harap di ikuti tata Cara Pemasangannya 
+   
+  jika masih error silakan download lewat googleDrive https://drive.google.com/file/d/1nUhYxxkjyf_HVPZRYaZ8Koxzx4ucatEv/view?usp=sharing
+  jika ada pertanyaan silakan kirim lewat email suryadiansyahh@gmail.com
