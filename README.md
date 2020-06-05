@@ -8,7 +8,7 @@
 </p>
 
 
-## Penjualan Hoscloud <sup>Beta</sup
+<p align="center" ><b>Penjualan Hoscloud <sup>Beta</sup></b></p>
 
 ## Tentang Program Penjualan ini
 
