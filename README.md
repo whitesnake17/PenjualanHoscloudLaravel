@@ -26,8 +26,8 @@ Program Penjualan ini saya build Ulang menggunakan Framework Versi terbaru saat 
  4. Jalankan Php artisan key:generate
  4. Jalankan Php artisan serve
  5. Untuk Login:
-    - Email: SuryaDiansyahh@gmail.com; Pass: Password
-    - Email: Admin@gmail.com; Pass: Password
+    - Email: suryadiansyahh@gmail.com; Pass: Password
+    - Email: admin@gmail.com; Pass: Password
     
  ## Harap di ikuti tata Cara Pemasangannya 
    
