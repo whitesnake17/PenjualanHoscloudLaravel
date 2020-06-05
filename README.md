@@ -6,8 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-<p align ="Center"> PENJUALAN HOSCLOUD <sup>Beta</sup></p>
 
+
+## Penjualan Hoscloud <sup>Beta</sup
 
 ## Tentang Program Penjualan ini
 
